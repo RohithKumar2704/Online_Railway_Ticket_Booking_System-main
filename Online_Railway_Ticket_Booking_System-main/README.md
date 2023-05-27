@@ -32,7 +32,6 @@
  <b>pip install -r requirements.txt</b><br><br>
  Run the django localhost server. Write:<br><br>
  <b>python manage.py runserver</b><br><br>
- Enjoy the project.
  </p>
   
   
